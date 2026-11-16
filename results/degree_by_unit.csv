@@ -1,0 +1,42 @@
+cohort,careunit,in_degree,out_degree,in_strength,out_strength
+elective,PACU,3,4,4,4
+elective,Trauma SICU (TSICU),3,3,3,3
+elective,Neurology,3,1,6,1
+elective,Med/Surg,3,0,3,0
+elective,Transplant,3,0,3,0
+elective,Cardiac Vascular Intensive Care Unit (CVICU),2,3,10,10
+elective,Surgical Intensive Care Unit (SICU),2,3,6,6
+elective,Neuro Stepdown,2,2,2,2
+elective,Medicine/Cardiology,2,1,2,1
+elective,Med/Surg/Trauma,2,1,2,1
+elective,Vascular,2,0,2,0
+elective,Cardiac Surgery,1,1,8,1
+elective,Med/Surg/GYN,1,0,1,0
+elective,Medicine,1,0,1,0
+elective,Neuro Intermediate,1,0,1,0
+elective,Discharge Lounge,0,12,0,25
+emergency,PACU,9,9,16,17
+emergency,Medicine,8,10,43,15
+emergency,Medical Intensive Care Unit (MICU),8,7,24,19
+emergency,Med/Surg,8,5,17,5
+emergency,Surgical Intensive Care Unit (SICU),7,7,20,19
+emergency,Neurology,7,4,17,5
+emergency,Cardiac Surgery,7,3,15,6
+emergency,Discharge Lounge,6,6,7,7
+emergency,Coronary Care Unit (CCU),6,5,10,10
+emergency,Medical/Surgical Intensive Care Unit (MICU/SICU),6,5,19,20
+emergency,Cardiac Vascular Intensive Care Unit (CVICU),5,6,14,14
+emergency,Medicine/Cardiology,5,6,12,9
+emergency,Trauma SICU (TSICU),5,5,10,11
+emergency,Transplant,5,2,14,4
+emergency,Vascular,5,1,7,1
+emergency,Hematology/Oncology,4,1,8,1
+emergency,Emergency Department Observation,3,3,3,3
+emergency,Med/Surg/Trauma,3,3,11,3
+emergency,Med/Surg/GYN,2,2,6,2
+emergency,Hematology/Oncology Intermediate,2,1,6,1
+emergency,Neuro Surgical Intensive Care Unit (Neuro SICU),2,1,2,1
+emergency,Cardiology Surgery Intermediate,1,1,1,1
+emergency,Surgery/Trauma,1,0,1,0
+emergency,Emergency Department,0,21,0,108
+emergency,Observation,0,1,0,1

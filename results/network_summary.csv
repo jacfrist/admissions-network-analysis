@@ -1,0 +1,5 @@
+cohort,version,admissions,patients,nodes,edges,transfers,density,mean_degree,median_in_degree,median_out_degree,max_in_degree,max_out_degree
+emergency,all units,157,83,25,115,283,0.192,4.6,5.0,4.0,9,21
+emergency,without ED & Discharge Lounge,157,83,23,82,161,0.162,3.57,4.0,3.0,8,9
+elective,all units,31,27,16,31,54,0.129,1.94,2.0,1.0,3,12
+elective,without ED & Discharge Lounge,31,27,12,19,29,0.144,1.58,2.0,1.0,2,4
